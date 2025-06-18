@@ -1,0 +1,1189 @@
+&lt;!DOCTYPE html&gt;
+
+&lt;html lang="en"&gt;
+
+&lt;head&gt;
+
+&lt;meta charset="UTF-8"&gt;
+
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+
+&lt;title&gt;Quiet Observer ($OBSVR) - The Silent Watcher&lt;/title&gt;
+
+&lt;link rel="stylesheet" href="style.css"&gt;
+
+&lt;link href="<https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;700&display=swap>" rel="stylesheet"&gt;
+
+&lt;link rel="icon" href="images/favicon.png" type="image/png"&gt;
+
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;header&gt;
+
+&lt;nav&gt;
+
+&lt;div class="logo"&gt;
+
+&lt;img src="images/logo.png" alt="OBSVR Logo"&gt;
+
+&lt;h1&gt;Quiet Observer&lt;/h1&gt;
+
+&lt;/div&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;a href="#about"&gt;About&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="#tokenomics"&gt;Tokenomics&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="#roadmap"&gt;Roadmap&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="#charity"&gt;Charity&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="#community"&gt;Community&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;/header&gt;
+
+&lt;main&gt;
+
+&lt;section id="hero" class="hero-section"&gt;
+
+&lt;div class="hero-content"&gt;
+
+&lt;img src="images/logo.png" alt="OBSVR Logo" class="hero-logo-large"&gt;
+
+&lt;h2&gt;The Silent Watcher of Solana&lt;/h2&gt;
+
+&lt;p&gt;Observing, Learning, Evolving. Join the movement of the unseen forces.&lt;/p&gt;
+
+&lt;div class="hero-buttons"&gt;
+
+&lt;a href="<https://raydium.io/swap/?inputCurrency=SOL&outputCurrency=YOUR_OBSVR_CONTRACT_ADDRESS>" target="\_blank" class="btn primary"&gt;Buy $OBSVR on Raydium&lt;/a&gt;
+
+&lt;a href="<https://solscan.io/token/YOUR_OBSVR_CONTRACT_ADDRESS>" target="\_blank" class="btn secondary"&gt;View on Solscan&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;section id="about" class="section-padded"&gt;
+
+&lt;div class="container"&gt;
+
+&lt;h2&gt;About Quiet Observer ($OBSVR)&lt;/h2&gt;
+
+&lt;p&gt;In the vast, chaotic expanse of the crypto universe, there exists a silent, ever-vigilant entity: The Quiet Observer. $OBSVR is more than just a memecoin; it's a testament to the power of subtle influence, strategic growth, and unwavering dedication.&lt;/p&gt;
+
+&lt;p&gt;We are building a community focused on deep understanding of market dynamics, leveraging insights to create sustainable value, and giving back to causes that embody vigilance and support.&lt;/p&gt;
+
+&lt;p&gt;Join us as we observe the market, learn from its ebb and flow, and collectively evolve into a powerful force on Solana.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;section id="tokenomics" class="section-alt"&gt;
+
+&lt;div class="container"&gt;
+
+&lt;h2&gt;Tokenomics&lt;/h2&gt;
+
+&lt;div class="tokenomics-grid"&gt;
+
+&lt;div class="tokenomics-item"&gt;
+
+&lt;h3&gt;Total Supply&lt;/h3&gt;
+
+&lt;p&gt;50,000,000,000 $OBSVR&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class="tokenomics-item"&gt;
+
+&lt;h3&gt;Liquidity&lt;/h3&gt;
+
+&lt;p&gt;100% LP Burned&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class="tokenomics-item"&gt;
+
+&lt;h3&gt;Taxes&lt;/h3&gt;
+
+&lt;p&gt;0% Buy / 0% Sell&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class="tokenomics-item"&gt;
+
+&lt;h3&gt;Fair Launch&lt;/h3&gt;
+
+&lt;p&gt;No Presale, No Team Tokens&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p class="disclaimer"&gt;Contract Address: &lt;code id="contract-address"&gt;YOUR_OBSVR_CONTRACT_ADDRESS&lt;/code&gt; (Click to copy)&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;section id="roadmap" class="section-padded"&gt;
+
+&lt;div class="container"&gt;
+
+&lt;h2&gt;Roadmap: Observing the Future&lt;/h2&gt;
+
+&lt;div class="roadmap-phases"&gt;
+
+&lt;div class="phase"&gt;
+
+&lt;h3&gt;Phase 1: Crawl - The Silent Launch&lt;/h3&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Token deployment & LP burn&lt;/li&gt;
+
+&lt;li&gt;Website launch & social media presence&lt;/li&gt;
+
+&lt;li&gt;Community building on Telegram, X (Twitter)&lt;/li&gt;
+
+&lt;li&gt;Initial marketing & meme spread&lt;/li&gt;
+
+&lt;li&gt;Fast-track listings on DEXTools, DexScreener, etc.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div class="phase"&gt;
+
+&lt;h3&gt;Phase 2: Walk - Expanding the Vision&lt;/h3&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Strategic partnerships & collaborations&lt;/li&gt;
+
+&lt;li&gt;Launch of $OBSVR NFT Collection (revenue generation for treasury)&lt;/li&gt;
+
+&lt;li&gt;Community Treasury establishment & funding (from NFT royalties & creator contributions)&lt;/li&gt;
+
+&lt;li&gt;First major charity donation & "Burn for Charity" event&lt;/li&gt;
+
+&lt;li&gt;Tier 2 CEX applications&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div class="phase"&gt;
+
+&lt;h3&gt;Phase 3: Run - The Observer's Ecosystem&lt;/h3&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Development of $OBSVR P2E/SocialFi Game (or other core utility)&lt;/li&gt;
+
+&lt;li&gt;Implementation of "Dividend for Burners" (revenue sharing from treasury)&lt;/li&gt;
+
+&lt;li&gt;Major CEX listings&lt;/li&gt;
+
+&lt;li&gt;DAO governance implementation&lt;/li&gt;
+
+&lt;li&gt;Continued charitable impact & global reach&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;section id="charity" class="section-alt"&gt;
+
+&lt;div class="container"&gt;
+
+&lt;h2&gt;Our Pledge: Observing with Purpose&lt;/h2&gt;
+
+&lt;p&gt;The Quiet Observer believes in giving back. Our commitment to charity is deeply ingrained in our mission, fostering real-world positive impact.&lt;/p&gt;
+
+&lt;div class="charity-details"&gt;
+
+&lt;p&gt;Instead of transaction taxes, $OBSVR embraces a \*\*community-driven charity model\*\*:&lt;/p&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;\*\*Creator's Contribution:\*\* A portion of personal profits from $OBSVR's success will be dedicated to a transparent charity treasury.&lt;/li&gt;
+
+&lt;li&gt;\*\*NFT Royalties & Project Income:\*\* Future revenue generated from our NFT collection, merchandise, or other utilities will directly fund the treasury.&lt;/li&gt;
+
+&lt;li&gt;\*\*Community "Burn for Charity" Events:\*\* Voluntary token burns by the community will be tied to treasury donations, creating a win-win for token value and humanitarian causes.&lt;/li&gt;
+
+&lt;li&gt;\*\*Transparent Treasury:\*\* All charity funds will be managed in a publicly auditable multi-signature wallet.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;p&gt;We aim to partner with reputable charities focused on vigilance, protection, or long-term well-being.&lt;/p&gt;
+
+&lt;a href="#" target="\_blank" class="btn primary"&gt;View Charity Wallet (Coming Soon)&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;section id="community" class="section-padded"&gt;
+
+&lt;div class="container"&gt;
+
+&lt;h2&gt;Join the Quiet Observers&lt;/h2&gt;
+
+&lt;p&gt;Become part of a movement that values insights, strategic growth, and positive impact. Connect with us on our social channels:&lt;/p&gt;
+
+&lt;div class="social-links"&gt;
+
+&lt;a href="YOUR_TWITTER_LINK" target="\_blank" class="social-btn twitter"&gt;X (Twitter)&lt;/a&gt;
+
+&lt;a href="YOUR_TELEGRAM_LINK" target="\_blank" class="social-btn telegram"&gt;Telegram&lt;/a&gt;
+
+&lt;a href="YOUR_DISCORD_LINK" target="\_blank" class="social-btn discord"&gt;Discord&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Stay tuned for exclusive events, early access, and rewards for our most dedicated contributors!&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;section id="contact" class="section-alt"&gt;
+
+&lt;div class="container"&gt;
+
+&lt;h2&gt;Contact Us&lt;/h2&gt;
+
+&lt;p&gt;Have questions? Reach out to the Quiet Observer team.&lt;/p&gt;
+
+&lt;p&gt;Email: &lt;a href="mailto:contact@quietobserver.xyz"&gt;<contact@quietobserver.xyz>&lt;/a&gt; (Replace with your actual email)&lt;/p&gt;
+
+&lt;p&gt;Or find us on our social channels linked above.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/section&gt;
+
+&lt;/main&gt;
+
+&lt;footer&gt;
+
+&lt;div class="container"&gt;
+
+&lt;p&gt;&copy; 2025 Quiet Observer ($OBSVR). All rights reserved. | &lt;a href="#"&gt;Privacy Policy&lt;/a&gt; | &lt;a href="#"&gt;Terms of Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class="disclaimer-footer"&gt;Disclaimer: Cryptocurrency investments are subject to high market risk. Please do your own research before investing.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/footer&gt;
+
+&lt;script src="script.js"&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+/\* General Body & Typography \*/
+
+body {
+
+font-family: 'Roboto', sans-serif;
+
+margin: 0;
+
+padding: 0;
+
+background-color: #121212; /\* Dark background \*/
+
+color: #E0E0E0; /\* Light text \*/
+
+line-height: 1.6;
+
+}
+
+h1, h2, h3 {
+
+font-family: 'Orbitron', sans-serif;
+
+color: #00FFC0; /\* Neon green/aqua highlight \*/
+
+text-align: center;
+
+margin-bottom: 20px;
+
+}
+
+h1 { font-size: 2.8em; }
+
+h2 { font-size: 2.2em; }
+
+h3 { font-size: 1.8em; }
+
+p {
+
+text-align: center;
+
+max-width: 800px;
+
+margin: 0 auto 15px auto;
+
+}
+
+a {
+
+color: #00FFC0;
+
+text-decoration: none;
+
+transition: color 0.3s ease;
+
+}
+
+a:hover {
+
+color: #00E0A0;
+
+}
+
+.container {
+
+max-width: 1200px;
+
+margin: 0 auto;
+
+padding: 20px;
+
+}
+
+.section-padded {
+
+padding: 80px 20px;
+
+}
+
+.section-alt {
+
+background-color: #1A1A1A; /\* Slightly lighter dark for contrast \*/
+
+padding: 80px 20px;
+
+}
+
+/\* Header & Navigation \*/
+
+header {
+
+background-color: #000000;
+
+padding: 15px 0;
+
+border-bottom: 1px solid #333;
+
+position: sticky;
+
+top: 0;
+
+z-index: 1000;
+
+}
+
+nav {
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+max-width: 1200px;
+
+margin: 0 auto;
+
+padding: 0 20px;
+
+}
+
+nav .logo {
+
+display: flex;
+
+align-items: center;
+
+}
+
+nav .logo img {
+
+height: 40px;
+
+margin-right: 10px;
+
+}
+
+nav .logo h1 {
+
+font-size: 1.8em;
+
+margin: 0;
+
+color: #00FFC0;
+
+}
+
+nav ul {
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+
+display: flex;
+
+}
+
+nav ul li {
+
+margin-left: 30px;
+
+}
+
+nav ul li a {
+
+font-family: 'Orbitron', sans-serif;
+
+color: #E0E0E0;
+
+font-weight: 700;
+
+text-transform: uppercase;
+
+transition: color 0.3s ease;
+
+}
+
+nav ul li a:hover {
+
+color: #00FFC0;
+
+}
+
+/\* Hero Section \*/
+
+.hero-section {
+
+background-image: url('images/hero-bg.jpg'); /\* Replace with your background image \*/
+
+background-size: cover;
+
+background-position: center;
+
+color: #fff;
+
+text-align: center;
+
+padding: 150px 20px;
+
+display: flex;
+
+flex-direction: column;
+
+justify-content: center;
+
+align-items: center;
+
+position: relative;
+
+overflow: hidden; /\* Prevent background content bleed \*/
+
+}
+
+.hero-section::before {
+
+content: '';
+
+position: absolute;
+
+top: 0;
+
+left: 0;
+
+right: 0;
+
+bottom: 0;
+
+background: rgba(0, 0, 0, 0.7); /\* Dark overlay for readability \*/
+
+z-index: 0; /\* Behind content \*/
+
+}
+
+.hero-content {
+
+position: relative; /\* Brings content above the overlay \*/
+
+z-index: 1;
+
+}
+
+.hero-logo-large {
+
+width: 150px; /\* Adjust size as needed \*/
+
+height: auto;
+
+margin-bottom: 20px;
+
+animation: pulse 2s infinite ease-in-out; /\* Simple animation \*/
+
+}
+
+@keyframes pulse {
+
+0% { transform: scale(1); }
+
+50% { transform: scale(1.05); }
+
+100% { transform: scale(1); }
+
+}
+
+.hero-content h2 {
+
+font-size: 3.5em;
+
+margin-bottom: 10px;
+
+color: #00FFC0;
+
+text-shadow: 0 0 15px rgba(0,255,192,0.8); /\* Neon glow effect \*/
+
+}
+
+.hero-content p {
+
+font-size: 1.2em;
+
+margin-bottom: 40px;
+
+max-width: 700px;
+
+}
+
+.hero-buttons {
+
+display: flex;
+
+justify-content: center;
+
+gap: 20px;
+
+flex-wrap: wrap; /\* Allow buttons to wrap on smaller screens \*/
+
+}
+
+.btn {
+
+display: inline-block;
+
+padding: 15px 30px;
+
+border-radius: 5px;
+
+font-weight: bold;
+
+text-transform: uppercase;
+
+transition: all 0.3s ease;
+
+text-align: center;
+
+}
+
+.btn.primary {
+
+background-color: #00FFC0;
+
+color: #121212;
+
+border: 2px solid #00FFC0;
+
+}
+
+.btn.primary:hover {
+
+background-color: transparent;
+
+color: #00FFC0;
+
+box-shadow: 0 0 15px rgba(0,255,192,0.8);
+
+}
+
+.btn.secondary {
+
+background-color: transparent;
+
+color: #00FFC0;
+
+border: 2px solid #00FFC0;
+
+}
+
+.btn.secondary:hover {
+
+background-color: #00FFC0;
+
+color: #121212;
+
+box-shadow: 0 0 15px rgba(0,255,192,0.8);
+
+}
+
+/\* Tokenomics Section \*/
+
+.tokenomics-grid {
+
+display: grid;
+
+grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /\* Responsive grid \*/
+
+gap: 30px;
+
+margin-top: 40px;
+
+}
+
+.tokenomics-item {
+
+background-color: #222;
+
+padding: 30px;
+
+border-radius: 10px;
+
+text-align: center;
+
+box-shadow: 0 0 15px rgba(0,255,192,0.1);
+
+}
+
+.tokenomics-item h3 {
+
+font-size: 1.5em;
+
+color: #00FFC0;
+
+margin-top: 0;
+
+}
+
+.tokenomics-item p {
+
+font-size: 1.1em;
+
+color: #E0E0E0;
+
+margin: 0;
+
+}
+
+.disclaimer {
+
+margin-top: 40px;
+
+font-size: 0.9em;
+
+color: #888;
+
+}
+
+/\* Tokenomics contract address clickable \*/
+
+# contract-address {
+
+cursor: pointer;
+
+text-decoration: underline;
+
+}
+
+# contract-address:hover {
+
+color: #00E0A0;
+
+}
+
+/\* Roadmap Section \*/
+
+.roadmap-phases {
+
+display: flex;
+
+flex-wrap: wrap; /\* Allow phases to wrap on smaller screens \*/
+
+justify-content: center;
+
+gap: 40px;
+
+margin-top: 40px;
+
+}
+
+.phase {
+
+background-color: #222;
+
+padding: 30px;
+
+border-radius: 10px;
+
+width: 30%; /\* Adjust for 3 columns on desktop \*/
+
+min-width: 300px; /\* Minimum width before stacking \*/
+
+box-shadow: 0 0 15px rgba(0,255,192,0.1);
+
+}
+
+.phase h3 {
+
+color: #00FFC0;
+
+margin-top: 0;
+
+text-align: left; /\* Align roadmap phase titles left \*/
+
+}
+
+.phase ul {
+
+list-style: none;
+
+padding: 0;
+
+margin-top: 20px;
+
+}
+
+.phase ul li {
+
+padding-left: 25px;
+
+position: relative;
+
+margin-bottom: 10px;
+
+color: #E0E0E0;
+
+text-align: left; /\* Ensure list items are left-aligned \*/
+
+}
+
+.phase ul li::before {
+
+content: '•'; /\* Bullet point \*/
+
+color: #00FFC0;
+
+font-size: 1.2em;
+
+position: absolute;
+
+left: 0;
+
+top: -2px;
+
+}
+
+/\* Charity Section \*/
+
+.charity-details {
+
+max-width: 800px;
+
+margin: 40px auto;
+
+background-color: #222;
+
+padding: 40px;
+
+border-radius: 10px;
+
+box-shadow: 0 0 15px rgba(0,255,192,0.1);
+
+}
+
+.charity-details p {
+
+text-align: left;
+
+margin-bottom: 15px;
+
+}
+
+.charity-details ul {
+
+list-style: none;
+
+padding: 0;
+
+margin-bottom: 20px;
+
+max-width: none; /\* Override section p styling \*/
+
+}
+
+.charity-details ul li {
+
+padding-left: 25px;
+
+position: relative;
+
+margin-bottom: 10px;
+
+color: #E0E0E0;
+
+text-align: left;
+
+}
+
+.charity-details ul li::before {
+
+content: '✓'; /\* Checkmark \*/
+
+color: #00FFC0;
+
+font-size: 1.2em;
+
+position: absolute;
+
+left: 0;
+
+top: -2px;
+
+}
+
+.charity-details .btn {
+
+margin-top: 20px;
+
+display: block; /\* Make button full width in this context \*/
+
+width: fit-content; /\* Adjust width to content \*/
+
+margin-left: auto;
+
+margin-right: auto;
+
+}
+
+/\* Community Section \*/
+
+.social-links {
+
+display: flex;
+
+justify-content: center;
+
+gap: 25px;
+
+margin-top: 40px;
+
+flex-wrap: wrap; /\* Allow social buttons to wrap \*/
+
+}
+
+.social-btn {
+
+display: inline-flex; /\* Use flexbox for icon alignment if you add icons \*/
+
+align-items: center;
+
+padding: 12px 25px;
+
+border-radius: 5px;
+
+font-weight: bold;
+
+text-transform: uppercase;
+
+transition: all 0.3s ease;
+
+border: 2px solid;
+
+}
+
+.social-btn.twitter {
+
+background-color: #1DA1F2;
+
+border-color: #1DA1F2;
+
+color: #fff;
+
+}
+
+.social-btn.twitter:hover {
+
+background-color: transparent;
+
+color: #1DA1F2;
+
+}
+
+.social-btn.telegram {
+
+background-color: #2CA5E0;
+
+border-color: #2CA5E0;
+
+color: #fff;
+
+}
+
+.social-btn.telegram:hover {
+
+background-color: transparent;
+
+color: #2CA5E0;
+
+}
+
+.social-btn.discord {
+
+background-color: #5865F2;
+
+border-color: #5865F2;
+
+color: #fff;
+
+}
+
+.social-btn.discord:hover {
+
+background-color: transparent;
+
+color: #5865F2;
+
+}
+
+/\* Footer \*/
+
+footer {
+
+background-color: #000;
+
+color: #888;
+
+text-align: center;
+
+padding: 30px 20px;
+
+font-size: 0.9em;
+
+border-top: 1px solid #333;
+
+}
+
+footer p {
+
+margin: 5px auto;
+
+max-width: 100%; /\* Override main p styling \*/
+
+}
+
+footer a {
+
+color: #00FFC0;
+
+}
+
+.disclaimer-footer {
+
+margin-top: 15px;
+
+font-size: 0.8em;
+
+color: #666;
+
+}
+
+/\* Responsive Design \*/
+
+@media (max-width: 768px) {
+
+nav ul {
+
+flex-direction: column;
+
+width: 100%;
+
+margin-top: 15px;
+
+align-items: center;
+
+display: none; /\* Hidden by default for mobile, will be toggled by JS \*/
+
+}
+
+nav ul.active {
+
+display: flex;
+
+}
+
+nav ul li {
+
+margin: 10px 0;
+
+}
+
+nav {
+
+flex-direction: column;
+
+}
+
+.hero-content h2 {
+
+font-size: 2.5em;
+
+}
+
+.hero-content p {
+
+font-size: 1em;
+
+}
+
+.tokenomics-grid, .roadmap-phases {
+
+grid-template-columns: 1fr; /\* Stack columns on small screens \*/
+
+width: 100%;
+
+}
+
+.phase {
+
+width: 100%;
+
+}
+
+.social-links {
+
+flex-direction: column;
+
+}
+
+.social-btn {
+
+width: 80%; /\* Make social buttons wider on small screens \*/
+
+max-width: 300px;
+
+}
+
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+
+// Smooth scrolling for navigation links
+
+document.querySelectorAll('nav a\[href^="#"\]').forEach(anchor => {
+
+anchor.addEventListener('click', function (e) {
+
+e.preventDefault();
+
+document.querySelector(this.getAttribute('href')).scrollIntoView({
+
+behavior: 'smooth'
+
+});
+
+});
+
+});
+
+// Copy contract address on click
+
+const contractAddressElement = document.getElementById('contract-address');
+
+if (contractAddressElement) {
+
+contractAddressElement.addEventListener('click', () => {
+
+const address = contractAddressElement.textContent.trim();
+
+navigator.clipboard.writeText(address).then(() => {
+
+const originalText = contractAddressElement.textContent;
+
+contractAddressElement.textContent = 'Copied!';
+
+setTimeout(() => {
+
+contractAddressElement.textContent = originalText;
+
+}, 1500); // Change back after 1.5 seconds
+
+}).catch(err => {
+
+console.error('Failed to copy address: ', err);
+
+alert('Could not copy address. Please copy it manually: ' + address);
+
+});
+
+});
+
+}
+
+// Basic mobile navigation toggle (if you add a hamburger menu)
+
+// You'd need to add a hamburger icon in your HTML for this to work.
+
+// Example HTML: &lt;button class="menu-toggle"&gt;☰&lt;/button&gt; inside &lt;nav&gt;
+
+const menuToggle = document.querySelector('.menu-toggle');
+
+const navUl = document.querySelector('nav ul');
+
+if (menuToggle && navUl) {
+
+menuToggle.addEventListener('click', () => {
+
+navUl.classList.toggle('active');
+
+});
+
+}
+
+});
